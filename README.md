@@ -1,4 +1,4 @@
-#  🎯 Quiz – The Last of Us 🧟
+#  Quiz – The Last of Us 🧟
 
 Um quiz temático desenvolvido com **JavaScript**, inspirado no universo sombrio e emocionante de **The Last of Us**. Teste seus conhecimentos sobre Ellie, Joel, os Vagalumes e o apocalipse causado pelo Cordyceps.
 
@@ -9,7 +9,7 @@ Um quiz temático desenvolvido com **JavaScript**, inspirado no universo sombrio
 
 Clique [aqui](https://avrilstihler.github.io/Quiz-The-Last-Of-Us/) para acessar o game.
 
-## 🕹️ Como jogar
+## Funcionamento
 
 - O jogo apresenta **10 perguntas** de múltipla escolha.
 - Ao clicar em uma resposta, o sistema informa se você acertou ou errou.
@@ -19,7 +19,7 @@ Clique [aqui](https://avrilstihler.github.io/Quiz-The-Last-Of-Us/) para acessar 
 
 Todas as perguntas foram baseadas em acontecimentos importantes de *The Last of Us*.
 
-## 📁 Estrutura dos arquivos
+## Estrutura dos arquivos
 
 - `index.html`: Interface do jogo  
 - `style.css`: Estilos e animações  
@@ -28,12 +28,12 @@ Todas as perguntas foram baseadas em acontecimentos importantes de *The Last of 
 
 
 
-## 🎮 Experiência
+## Experiência
 
-✔️ Visual interativo com feedback imediato  
-✔️ Respostas corretas são destacadas automaticamente  
-✔️ Ideal para fãs da série e do jogo  
+- Visual interativo com feedback imediato
+- Respostas corretas são destacadas automaticamente
+- Ideal para fãs da série e do jogo  
 
 ---
-💻 **Tecnologias utilizadas:** JavaScript, HTML e CSS
+**Tecnologias utilizadas:** JavaScript, HTML e CSS
 
