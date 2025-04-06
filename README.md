@@ -18,7 +18,7 @@ Clique [aqui](https://avrilstihler.github.io/Quiz-The-Last-Of-Us/) para acessar 
 
 | Resposta Correta | Resposta Incorreta | Tela Final|
 |---|---|---|
-| ![Print Correta](images/telacerto.png) | ![Print Incorreta](images/telaerro.png) | ![Final](final/jogada.png) |
+| ![Print Correta](images/telacerto.png) | ![Print Incorreta](images/telaerro.png) | ![Final](images/final.png) |
 
 
 Todas as perguntas foram baseadas em acontecimentos importantes de *The Last of Us*.
