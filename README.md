@@ -7,7 +7,7 @@ Um quiz temático desenvolvido com **JavaScript**, inspirado no universo sombrio
 > "Todos que eu amava me deixaram ou morreram, todos... exceto você. Então não diga que eu estaria mais segura com outra pessoa porque a verdade é que eu só estaria mais assustada."
 (Ellie)
 
-Clique [aqui](https://avrilstihler.github.io/Quiz-The-Last-Of-Us/) para acessar o game.
+Clique [aqui](https://avrilstihler.github.io/Quiz-The-Last-Of-Us/) para acessar o quiz.
 
 ## Funcionamento
 
