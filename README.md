@@ -2,7 +2,7 @@
 
 Um quiz temático desenvolvido com **JavaScript**, inspirado no universo sombrio e emocionante de **The Last of Us**. Teste seus conhecimentos sobre Ellie, Joel, os Vagalumes e o apocalipse causado pelo Cordyceps.
 
-![Tela Inicia](tela.png)
+![Tela Inicial](images/tela.png)
 
 > "Todos que eu amava me deixaram ou morreram, todos... exceto você. Então não diga que eu estaria mais segura com outra pessoa porque a verdade é que eu só estaria mais assustada."
 (Ellie)
@@ -15,6 +15,10 @@ Clique [aqui](https://avrilstihler.github.io/Quiz-The-Last-Of-Us/) para acessar 
 - Ao clicar em uma resposta, o sistema informa se você acertou ou errou.
 - A pontuação é contabilizada e exibida ao final.
 - Você pode **reiniciar o quiz** para tentar novamente.
+
+| Resposta Correta | Resposta Incorreta | Tela Final|
+|---|---|---|
+| ![Print Correta](images/telacerto.png) | ![Print Incorreta](images/telaerro.png) | ![Final](final/jogada.png) |
 
 
 Todas as perguntas foram baseadas em acontecimentos importantes de *The Last of Us*.
